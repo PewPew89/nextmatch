@@ -1,2 +1,2 @@
 # nextmatch
-eb-App für NextMatch.gg
+Web-App für NextMatch.gg
